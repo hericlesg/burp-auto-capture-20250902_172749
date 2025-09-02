@@ -1,0 +1,18 @@
+HTTP/2 200 OK
+Date: Tue, 02 Sep 2025 20:28:10 GMT
+Content-Type: text/plain
+X-App-Trace-Id: parscvr066
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: 
+X-Elapsed-Time: 1
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+Server: cloudflare
+Cf-Ray: 978fc095fbb9e83a-GRU
+
+ae7131b097a43679f4197859098a9a1b3e6fc854b3aad67bb761dc938676e315ccf1b796bac1c6ae6de4bf904491ca3849120608c004053160b8628f49fb1c34ff959e7d0744e49e935aa91a8dfdd9b308a2383981547581eeb7a11038c7ffd17700ef0e32fb40ea29473e7aa0728f2ef325e3f5929f152363058fba9a044089
