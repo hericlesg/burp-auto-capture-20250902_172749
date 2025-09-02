@@ -1,0 +1,21 @@
+PUT /wps/member/register HTTP/2
+Host: www.rajajoy.cc
+Cookie: SHELL_deviceId=3760ab34-8a12-433a-80a4-3f0036e4af69
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.rajajoy.cc/register?referralCode=srs7387&affiliateCode=rajajoy1
+Content-Type: application/json
+Encryption: 2ccf1759f7b1cbea5d4accadfad35cf9ff0cb7e7113c94b85fc86524626e9ff8095f016a3a5e8be4e63d24433b6fc562f3d666056321d265f1fa26b8ed875bee9ce7ab385b516de2a45211918be600f6481b007673d7c99786c9e56f35201442216f69ae76708a2b1c83718f2c683fb0977619ee8c4e9c04f49c292906533347
+Merchant: rajamxnf1
+Device: web
+Language: ES
+Content-Length: 772
+Origin: https://www.rajajoy.cc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
+{"value":"LSwVfob0G0N9gjdAj+3S6rFh+dPA/ksBTJDDb2tns3zWaA65r3qWXtJVIeEGeL0wqhuv0IlBWChWii0ODUbnER71p53VsDaNQCoz6FGp/64v/L93uvWweztzmuTlczFPKGkrwwQXj+e54vtPA7ZBd211xQhwqew4eiH8s+DstRw53OgaDh5m/K2qRhDe1NHTiR3oWt/yB9Ddf5/it9bn+15Ehuobt+CupPU0nwqZH1cjyT8h6ExPnbjT4OSdOftH9JeMIXZsBJ9ioNKNWzrwtA2NgH5OZKDbJ83NOEFWkbj4srb3BkQxAyYhcbNnpAAaTz0sn54N9Gr/3tT4r8BGAsXlWDImZQgbbsc8MMSn82Cl14EqySWqAg5wsE97nwMlJiXm8jV9WqI0bxEK9rUBHy+Kzr/kIsdmJNYzj6p1l41qiUU+1Tz6E0GngWpVOujGD5P1gnzJJ58zijQe5KAPGcENXKGHZ9lpbxaVqOUnCd5lwZ+oJXkIStGe0xmHSJ4Q5hHUm/9k4OVNAYRs18B/3yGlB0HQahKrWJRRHmvgfX3jLBIIajGBjf+lHMaU5VdC0hdRzCJ+FSCuvZ22PBeCkOdAWiqShKtVk11EZSeQ52MXqViZPr43ceYy8UKz8Y16poB8EXs1UcCLKk5q607mosqrXUub4UpbEBIH0uUfqgztfqUMXNfyNUEAhWeLYtnsCXrgps5kZQ1UVMmu1fHnhWpyaJTFnG1xgZgoejMUs71t+CGaJ0w7qQ=="}
