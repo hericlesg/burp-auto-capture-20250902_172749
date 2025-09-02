@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250902_172926", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/classify-client.services.mozilla.com_20250902_172926/request_001.txt", 
+      "url": "https://classify-client.services.mozilla.com:443/api/v1/classify_client/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/classify-client.services.mozilla.com_20250902_172926/response_001.txt", 
+      "timestamp": 1756844878606
+    }
+  ], 
+  "host": "classify-client.services.mozilla.com", 
+  "total_requests": 1
+}
