@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Server: nginx
+Date: Tue, 02 Sep 2025 20:27:58 GMT
+Content-Type: application/json
+Content-Length: 64
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"request_time":"2025-09-02T20:27:58.503985024Z","country":"BR"}
