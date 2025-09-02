@@ -1,0 +1,16 @@
+GET /wps/relay/GCSGAME_gameList?clientType=3&platform=flash%2Chtml5-desktop&merchant=rajamxnf1&gameType=RECENT&vassalage=&gameClassify=&gameName=&minBet=&minLineNum=&pageNo=1&pageSize=14&language=ES&imgSize= HTTP/2
+Host: www.rajajoy.cc
+Cookie: SHELL_deviceId=3760ab34-8a12-433a-80a4-3f0036e4af69
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.rajajoy.cc/register?referralCode=srs7387&affiliateCode=rajajoy1
+Language: ES
+Merchant: rajamxnf1
+Device: web
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
