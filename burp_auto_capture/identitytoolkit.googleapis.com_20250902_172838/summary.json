@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250902_172838", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/identitytoolkit.googleapis.com_20250902_172838/request_001.txt", 
+      "url": "https://identitytoolkit.googleapis.com:443/v1/recaptchaParams?key=AIzaSyBO7eawunHBXQQfvVon7EXuTFLWFY51LUw", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/identitytoolkit.googleapis.com_20250902_172838/response_001.txt", 
+      "timestamp": 1756844879032
+    }
+  ], 
+  "host": "identitytoolkit.googleapis.com", 
+  "total_requests": 1
+}
