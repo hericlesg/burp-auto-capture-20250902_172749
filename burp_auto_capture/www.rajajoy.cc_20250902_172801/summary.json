@@ -1,0 +1,151 @@
+{
+  "capture_timestamp": "20250902_172801", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_001.txt", 
+      "url": "https://www.rajajoy.cc:443/register?referralCode=srs7387&affiliateCode=rajajoy1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_001.txt", 
+      "timestamp": 1756844874492
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_002.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/relay/WPSCORE_getCustomerServiceScript?", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_002.txt", 
+      "timestamp": 1756844875269
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_003.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/system/status?", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_003.txt", 
+      "timestamp": 1756844875346
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_004.txt", 
+      "url": "https://www.rajajoy.cc:443/common/v.1.0.1/manifest/manifest.json?_1756844874902", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_004.txt", 
+      "timestamp": 1756844875353
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_005.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/relay/GCSGAME_gameList?clientType=3&platform=flash%2Chtml5-desktop&merchant=rajamxnf1&gameType=RECENT&vassalage=&gameClassify=&gameName=&minBet=&minLineNum=&pageNo=1&pageSize=14&language=ES&imgSize=", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_005.txt", 
+      "timestamp": 1756844876024
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_006.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/relay/GCSGAME_gameList?clientType=3&platform=flash%2Chtml5-desktop&merchant=rajamxnf1&gameType=RNG&vassalage=JL&gameClassify=&gameName=&minBet=&minLineNum=&pageNo=1&pageSize=14&language=ES&imgSize=", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_006.txt", 
+      "timestamp": 1756844876069
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_007.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/relay/MCSFE_getListAnnouncements?types=B%2CPL%2CPU%2CPR%2CH&platform=W", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_007.txt", 
+      "timestamp": 1756844876074
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_008.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/system/helpCenter?lang=ES&device=WEB", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_008.txt", 
+      "timestamp": 1756844876131
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_009.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/relay/MCSFE_getMerchantAvailablePromotions?", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_009.txt", 
+      "timestamp": 1756844876134
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_010.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/relay/PROMOFE_getPromotionAnnouncementCategory?", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_010.txt", 
+      "timestamp": 1756844876592
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_011.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/system/country?", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_011.txt", 
+      "timestamp": 1756844876594
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_012.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/relay/GCSGAME_hotGamesV2?merchantCode=rajamxnf1&isPlatform=2&vassalage=&platform=flash%2Chtml5-desktop&language=ES&imgSize=", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_012.txt", 
+      "timestamp": 1756844876647
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_013.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/relay/GCSGAME_getRankList?gameCategory=ALL&language=ES&limitNum=20", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_013.txt", 
+      "timestamp": 1756844876670
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_014.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/agent/affiliate?domain=rajajoy&code=rajajoy1&referralCode=srs7387", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_014.txt", 
+      "timestamp": 1756844876694
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_015.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/relay/GCSGAME_newGameVendor?platform=html5-desktop", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_015.txt", 
+      "timestamp": 1756844876694
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_016.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/system/country?_=1756844876467", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_016.txt", 
+      "timestamp": 1756844876942
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_017.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/relay/GCSGAME_getVendorEvent?_=1756844876467", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_017.txt", 
+      "timestamp": 1756844876951
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/request_018.txt", 
+      "url": "https://www.rajajoy.cc:443/wps/system/settings/consolidated?_=1756844876467", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/www.rajajoy.cc_20250902_172801/response_018.txt", 
+      "timestamp": 1756844876954
+    }
+  ], 
+  "host": "www.rajajoy.cc", 
+  "total_requests": 18
+}
