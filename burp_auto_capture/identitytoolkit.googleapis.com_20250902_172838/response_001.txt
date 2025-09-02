@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=UTF-8
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Date: Tue, 02 Sep 2025 20:27:58 GMT
+Server: ESF
+Content-Length: 299
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://www.rajajoy.cc
+Access-Control-Expose-Headers: vary,vary,vary,content-encoding,date,server,content-length
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{
+  "kind": "identitytoolkit#GetRecaptchaParamResponse",
+  "recaptchaStoken": "tD5mfNVpZjjnnl-vGqSkhRJFhR6njfosV3Xoafp5Yh_LC-1-oTGveX-Se7ve7kyvV4dm75x-DGTrwsfR69vP3QbqDwWg_nCQaSjg4GrQEzY",
+  "recaptchaSiteKey": "6LcMZR0UAAAAALgPMcgHwga7gY5p8QMg1Hj-bmUv",
+  "producerProjectNumber": "551503664846"
+}
