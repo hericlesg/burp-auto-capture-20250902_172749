@@ -1,0 +1,15 @@
+GET /wps/relay/GCSGAME_newGameVendor?platform=html5-desktop HTTP/2
+Host: www.rajajoy.cc
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://www.rajajoy.cc/register?referralCode=srs7387&affiliateCode=rajajoy1
+Merchant: rajamxnf1
+Device: web
+Language: ES
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
