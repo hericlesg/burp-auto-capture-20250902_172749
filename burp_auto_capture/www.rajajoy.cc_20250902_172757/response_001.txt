@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Date: Tue, 02 Sep 2025 20:27:54 GMT
+Content-Type: text/html
+Cf-Ray: 978fc02cf9bf1b20-GRU
+Last-Modified: Fri, 04 Jul 2025 03:57:46 GMT
+Vary: Accept-Encoding
+Etag: W/"6867513a-b12"
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+Server: cloudflare
+
+<!doctype html><html><head><meta charset="UTF-8"/><meta name="viewport" content="viewport-fit=cover,width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no"/><title>RAJAJOY MÃ©xico - Apuestas Deportivas y Casino Online Seguro</title><meta name="title" content="RAJAJOY MÃ©xico - Apuestas Deportivas y Casino Online Seguro"/><meta name="description" content="RAJAJOY es tu sitio de confianza para apuestas deportivas y casino online en MÃ©xico. Disfruta tragamonedas, ruleta en vivo, bonos exclusivos y pagos seguros. Â¡RegÃ­strate y gana hoy!
+    "/><meta name="âkeywordsâ" content="RAJAJOY, apuestas deportivas MÃ©xico, casino online, tragamonedas, juegos de azar, ruleta en vivo, apuestas en lÃ­nea, bono de bienvenida, casas de apuestas MÃ©xico"/><meta property="og:type" content="website"/><meta property="og:title" content="RAJAJOY MÃ©xico - Apuestas Deportivas y Casino Online Seguro"/><meta property="og:description" content="RAJAJOY es tu sitio de confianza para apuestas deportivas y casino online en MÃ©xico. Disfruta tragamonedas, ruleta en vivo, bonos exclusivos y pagos seguros. Â¡RegÃ­strate y gana hoy!
+    "/><meta property="og:image" content="/meta-img.png"/><meta property="twitter:title" content="RAJAJOY MÃ©xico - Apuestas Deportivas y Casino Online Seguro"/><meta property="twitter:description" content="RAJAJOY es tu sitio de confianza para apuestas deportivas y casino online en MÃ©xico. Disfruta tragamonedas, ruleta en vivo, bonos exclusivos y pagos seguros. Â¡RegÃ­strate y gana hoy!
+    "/><meta property="twitter:image" content="/meta-img.png"/><meta name="twitter:card" content="summary_large_image"/><link type="favicon" rel="shortcut icon" href="/favicon.png?v=7920"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/><link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet"/><script src="/js/aboutMerchant.js?v=7920"></script><script src="/js/encrypt.js?v=7920"></script><script defer="defer" src="/js/chunk-web-view.0988cce8.js"></script><script defer="defer" src="/js/chunk-vendors.12a07d11.js"></script><script defer="defer" src="/js/index.cbe01de3.js"></script><link href="/css/chunk-web-view.db308bbc.css" rel="stylesheet"><link href="/css/chunk-vendors.29ac33d5.css" rel="stylesheet"><link href="/css/index.b0112087.css" rel="stylesheet"></head><body class="hide_scroll_bar"><div id="app"></div><svg class="svg-gradient"><linearGradient id="icon-active" x1="4" y1="5.03684" x2="30.5537" y2="8.76258" gradientUnits="userSpaceOnUse"><stop stop-color="#55E400"/><stop offset="1" stop-color="#007A05"/></linearGradient></svg><script>var brand="7920_2025-07-04 10:37:15";console.log("brand",brand)</script></body></html>
