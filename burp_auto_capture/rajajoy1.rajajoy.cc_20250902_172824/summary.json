@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250902_172824", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/rajajoy1.rajajoy.cc_20250902_172824/request_001.txt", 
+      "url": "http://rajajoy1.rajajoy.cc:80/?referralCode=srs7387", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/rajajoy1.rajajoy.cc_20250902_172824/response_001.txt", 
+      "timestamp": 1756844872790
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/rajajoy1.rajajoy.cc_20250902_172824/request_002.txt", 
+      "url": "https://rajajoy1.rajajoy.cc:443/?referralCode=srs7387", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/rajajoy1.rajajoy.cc_20250902_172824/response_002.txt", 
+      "timestamp": 1756844873346
+    }
+  ], 
+  "host": "rajajoy1.rajajoy.cc", 
+  "total_requests": 2
+}
