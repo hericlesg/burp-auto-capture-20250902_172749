@@ -1,0 +1,19 @@
+HTTP/2 200 OK
+Date: Tue, 02 Sep 2025 20:27:56 GMT
+Content-Type: application/json
+Content-Length: 43
+Cf-Ray: 978fc03df8eb1b20-GRU
+X-App-Trace-Id: 3gb4dmb066
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: REWCEN3
+X-Elapsed-Time: 3
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+Server: cloudflare
+
+{"success":true,"value":{"vendorEvent":[]}}
