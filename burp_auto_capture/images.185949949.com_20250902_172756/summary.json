@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250902_172756", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/images.185949949.com_20250902_172756/request_001.txt", 
+      "url": "https://images.185949949.com:443//TCG_PROD_IMAGES/B2C/libs/device.html?deviceId=", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/images.185949949.com_20250902_172756/response_001.txt", 
+      "timestamp": 1756844875647
+    }
+  ], 
+  "host": "images.185949949.com", 
+  "total_requests": 1
+}
