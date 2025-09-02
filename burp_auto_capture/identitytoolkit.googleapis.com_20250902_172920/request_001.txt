@@ -1,0 +1,17 @@
+GET /v1/recaptchaParams?key=AIzaSyBO7eawunHBXQQfvVon7EXuTFLWFY51LUw HTTP/2
+Host: identitytoolkit.googleapis.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-Client-Version: Firefox/JsCore/10.12.5/FirebaseCore-web
+X-Firebase-Client: eyJ2ZXJzaW9uIjoyLCJoZWFydGJlYXRzIjpbeyJhZ2VudCI6ImZpcmUtY29yZS8wLjEwLjggZmlyZS1jb3JlLWVzbTIwMTcvMC4xMC44IGZpcmUtanMvIGZpcmUtanMtYWxsLWFwcC8xMC4xMi41IGZpcmUtYXV0aC8xLjcuNiBmaXJlLWF1dGgtZXNtMjAxNy8xLjcuNiIsImRhdGVzIjpbIjIwMjUtMDktMDIiXX1dfQ
+Content-Type: application/json
+X-Firebase-Locale: pt-BR
+Origin: https://www.rajajoy.cc
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
