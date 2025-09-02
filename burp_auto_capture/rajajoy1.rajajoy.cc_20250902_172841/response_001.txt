@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 02 Sep 2025 20:27:52 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: close
+Cache-Control: max-age=3600
+Expires: Tue, 02 Sep 2025 21:27:52 GMT
+Location: https://rajajoy1.rajajoy.cc/?referralCode=srs7387
+Vary: Accept-Encoding
+Server: cloudflare
+CF-RAY: 978fc025bcd164cc-GIG
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
