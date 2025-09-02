@@ -1,0 +1,18 @@
+HTTP/2 200 OK
+Date: Tue, 02 Sep 2025 20:28:47 GMT
+Content-Type: application/json
+X-App-Trace-Id: adgg7kb066
+X-Robots-Tag: noindex,nofollow
+X-Module-Id: REG3
+X-Elapsed-Time: 166
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,PUT,DELETE,OPTIONS
+Access-Control-Allow-Headers: Merchant,Authorization,DNT,X-Mx-ReqToken,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=0
+Server: cloudflare
+Cf-Ray: 978fc17bfe55ae47-GRU
+
+{"success":true,"value":{"mobileNum":null,"thirdPartyUserInfo":null,"status":false,"firstTimeLogin":true,"loginUuid":"3","paymentCount":0,"passwordExpired":false,"customerType":0,"userAgent":"WEB","device":"WEB","count":0,"userName":"5530174928","token":"88893223-5c4b-4f83-b646-80677a5598cd","id":236554826,"type":1}}
